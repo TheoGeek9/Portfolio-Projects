@@ -5,7 +5,7 @@ order by 3,4;
 
 
 
-/*select * 
+/*select .* 
 from portfolioProject..CovidVaccinations
 order by 3,4;*/
 
